@@ -1,0 +1,707 @@
+{
+  "lab": "BUG Lab",
+  "shareUrl": "https://claude.ai/artifact/JSnafW6U33i6rUZBLFCbWL",
+  "department": "Digital Game Design",
+  "semester": "2026/2027 Spring",
+  "classes": {
+    "start": "2027-01-18",
+    "weeks": 12,
+    "timeZone": "Europe/Istanbul"
+  },
+  "timeRange": {
+    "start": "08:30",
+    "end": "18:30"
+  },
+  "groups": {
+    "mandatory": {
+      "label": "Year",
+      "items": {
+        "1": {
+          "label": "1st year",
+          "tag": "Auto-assigned",
+          "note": "First-year students don't choose these courses or sections. You are assigned to them automatically.",
+          "fill": "#43360C",
+          "accent": "#FCD34D"
+        },
+        "2": {
+          "label": "2nd year",
+          "fill": "#1B3556",
+          "accent": "#93C5FD"
+        },
+        "3": {
+          "label": "3rd year",
+          "fill": "#143F28",
+          "accent": "#86EFAC"
+        },
+        "4": {
+          "label": "4th year",
+          "fill": "#4A2611",
+          "accent": "#FDBA74"
+        }
+      }
+    },
+    "elective": {
+      "label": "Area",
+      "items": {
+        "art": {
+          "label": "Art",
+          "fill": "#4A1D35",
+          "accent": "#F9A8D4"
+        },
+        "design": {
+          "label": "Design",
+          "fill": "#1B3556",
+          "accent": "#93C5FD"
+        },
+        "dev": {
+          "label": "Development",
+          "fill": "#143F28",
+          "accent": "#86EFAC"
+        },
+        "proj": {
+          "label": "Projects",
+          "fill": "#4A2611",
+          "accent": "#FDBA74"
+        },
+        "cult": {
+          "label": "Culture",
+          "fill": "#0F3D3A",
+          "accent": "#5EEAD4"
+        },
+        "biz": {
+          "label": "Business",
+          "fill": "#43360C",
+          "accent": "#FCD34D"
+        }
+      }
+    }
+  },
+  "courses": [
+    {
+      "code": "GAD1002",
+      "name": "Fundamentals of Game Design II",
+      "type": "mandatory",
+      "group": "1",
+      "sections": [
+        {
+          "section": 1,
+          "day": "Tue",
+          "start": "10:30",
+          "end": "14:20",
+          "lecturer": "Can Oral",
+          "room": "GLTAQUA",
+          "online": false
+        },
+        {
+          "section": 2,
+          "day": "Tue",
+          "start": "14:30",
+          "end": "18:20",
+          "lecturer": "Can Oral",
+          "room": "GLTAQUA",
+          "online": false
+        }
+      ]
+    },
+    {
+      "code": "GAD1004",
+      "name": "Introduction to Game Engines",
+      "type": "mandatory",
+      "group": "1",
+      "sections": [
+        {
+          "section": 1,
+          "day": "Wed",
+          "start": "09:30",
+          "end": "13:20",
+          "lecturer": "Mehmet Onur Kalkan",
+          "room": "GLTSC03",
+          "online": false
+        },
+        {
+          "section": 2,
+          "day": "Wed",
+          "start": "13:30",
+          "end": "17:20",
+          "lecturer": "Mehmet Onur Kalkan",
+          "room": "GLTSC03",
+          "online": false
+        },
+        {
+          "section": 3,
+          "day": "Thu",
+          "start": "09:30",
+          "end": "13:20",
+          "lecturer": "Mehmet Onur Kalkan",
+          "room": "GLTSC03",
+          "online": false
+        }
+      ]
+    },
+    {
+      "code": "GAD1006",
+      "name": "Basics of Storytelling",
+      "type": "mandatory",
+      "group": "1",
+      "sections": [
+        {
+          "section": 1,
+          "day": "Wed",
+          "start": "14:30",
+          "end": "17:20",
+          "lecturer": "Barbaros Bostan",
+          "room": "GLTAQUA",
+          "online": false
+        },
+        {
+          "section": 2,
+          "day": "Thu",
+          "start": "14:30",
+          "end": "17:20",
+          "lecturer": "Barbaros Bostan",
+          "room": "GLTAQUA",
+          "online": false
+        },
+        {
+          "section": 3,
+          "day": "Fri",
+          "start": "14:30",
+          "end": "17:20",
+          "lecturer": "Barbaros Bostan",
+          "room": "GLTAQUA",
+          "online": false
+        }
+      ]
+    },
+    {
+      "code": "GAD1008",
+      "name": "3D Digital Art",
+      "type": "mandatory",
+      "group": "1",
+      "sections": [
+        {
+          "section": 1,
+          "day": "Tue",
+          "start": "09:30",
+          "end": "13:20",
+          "lecturer": "Server Zafer Masalcı",
+          "room": "GLTSC02",
+          "online": false
+        },
+        {
+          "section": 2,
+          "day": "Wed",
+          "start": "09:30",
+          "end": "13:20",
+          "lecturer": "Server Zafer Masalcı",
+          "room": "GLTSC02",
+          "online": false
+        },
+        {
+          "section": 3,
+          "day": "Wed",
+          "start": "13:30",
+          "end": "17:20",
+          "lecturer": "Server Zafer Masalcı",
+          "room": "GLTSC02",
+          "online": false
+        }
+      ]
+    },
+    {
+      "code": "GAD2018",
+      "name": "Game Development II",
+      "type": "mandatory",
+      "group": "2",
+      "sections": [
+        {
+          "section": 1,
+          "day": "Mon",
+          "start": "09:30",
+          "end": "13:20",
+          "lecturer": "Server Zafer Masalcı",
+          "room": "GLTSC02",
+          "online": false
+        },
+        {
+          "section": 2,
+          "day": "Mon",
+          "start": "13:30",
+          "end": "17:20",
+          "lecturer": "Server Zafer Masalcı",
+          "room": "GLTSC02",
+          "online": false
+        },
+        {
+          "section": 3,
+          "day": "Tue",
+          "start": "13:30",
+          "end": "17:20",
+          "lecturer": "Server Zafer Masalcı",
+          "room": "GLTSC02",
+          "online": false
+        }
+      ]
+    },
+    {
+      "code": "GAD2032",
+      "name": "Game Production Studio",
+      "tag": "Any section",
+      "note": "Any section works. You get feedback from all of this course's lecturers whichever section you pick; the sections only exist so you can fit your electives around it.",
+      "type": "mandatory",
+      "group": "2",
+      "sections": [
+        {
+          "section": 1,
+          "day": "Thu",
+          "start": "13:30",
+          "end": "17:20",
+          "lecturer": "Güven Çatak",
+          "room": "MS Teams",
+          "online": true
+        },
+        {
+          "section": 2,
+          "day": "Mon",
+          "start": "09:30",
+          "end": "13:20",
+          "lecturer": "Ertuğrul Süngü",
+          "room": "MS Teams",
+          "online": true
+        },
+        {
+          "section": 3,
+          "day": "Tue",
+          "start": "09:30",
+          "end": "13:20",
+          "lecturer": "Barbaros Bostan",
+          "room": "MS Teams",
+          "online": true
+        },
+        {
+          "section": 4,
+          "day": "Thu",
+          "start": "13:30",
+          "end": "17:20",
+          "lecturer": "Mehmet Onur Kalkan",
+          "room": "MS Teams",
+          "online": true
+        }
+      ]
+    },
+    {
+      "code": "GAD3019",
+      "name": "Gamification",
+      "type": "mandatory",
+      "group": "3",
+      "sections": [
+        {
+          "section": 1,
+          "day": "Mon",
+          "start": "10:30",
+          "end": "13:20",
+          "lecturer": "Çakır Aker",
+          "room": "GLTAQUA",
+          "online": false
+        },
+        {
+          "section": 2,
+          "day": "Mon",
+          "start": "14:30",
+          "end": "17:20",
+          "lecturer": "Çakır Aker",
+          "room": "GLTAQUA",
+          "online": false
+        },
+        {
+          "section": 3,
+          "day": "Wed",
+          "start": "10:30",
+          "end": "13:20",
+          "lecturer": "Çakır Aker",
+          "room": "GLTAQUA",
+          "online": false
+        }
+      ]
+    },
+    {
+      "code": "GAD3032",
+      "name": "Serious Games",
+      "type": "mandatory",
+      "group": "3",
+      "sections": [
+        {
+          "section": 1,
+          "day": "Mon",
+          "start": "09:30",
+          "end": "13:20",
+          "lecturer": "Mehmet Onur Kalkan",
+          "room": "GLTVR",
+          "online": false
+        },
+        {
+          "section": 2,
+          "day": "Mon",
+          "start": "13:30",
+          "end": "17:20",
+          "lecturer": "Mehmet Onur Kalkan",
+          "room": "GLTVR",
+          "online": false
+        },
+        {
+          "section": 3,
+          "day": "Tue",
+          "start": "09:30",
+          "end": "13:20",
+          "lecturer": "Mehmet Onur Kalkan",
+          "room": "GLTVR",
+          "online": false
+        },
+        {
+          "section": 4,
+          "day": "Tue",
+          "start": "13:30",
+          "end": "17:20",
+          "lecturer": "Mehmet Onur Kalkan",
+          "room": "GLTVR",
+          "online": false
+        }
+      ]
+    },
+    {
+      "code": "GAD4002",
+      "name": "Senior Game Project",
+      "type": "mandatory",
+      "group": "4",
+      "sections": [
+        {
+          "section": 1,
+          "day": "Thu",
+          "start": "08:30",
+          "end": "13:20",
+          "lecturer": "Güven Çatak",
+          "room": "MS Teams",
+          "online": true
+        },
+        {
+          "section": 2,
+          "day": "Thu",
+          "start": "08:30",
+          "end": "13:20",
+          "lecturer": "Ertuğrul Süngü",
+          "room": "MS Teams",
+          "online": true
+        },
+        {
+          "section": 3,
+          "day": "Thu",
+          "start": "08:30",
+          "end": "13:20",
+          "lecturer": "Server Zafer Masalcı",
+          "room": "MS Teams",
+          "online": true
+        },
+        {
+          "section": 4,
+          "day": "Thu",
+          "start": "08:30",
+          "end": "13:20",
+          "lecturer": "Orçun Nişli",
+          "room": "MS Teams",
+          "online": true
+        }
+      ]
+    },
+    {
+      "code": "COP4346",
+      "name": "PUBG Mobile Game Design Practices",
+      "type": "elective",
+      "group": "proj",
+      "sections": [
+        {
+          "section": 1,
+          "day": "Thu",
+          "start": "09:30",
+          "end": "13:20",
+          "lecturer": "Güven Çatak",
+          "room": "GLTSC02",
+          "online": false
+        }
+      ]
+    },
+    {
+      "code": "GAD1010",
+      "name": "Culture of Comics",
+      "type": "elective",
+      "group": "cult",
+      "sections": [
+        {
+          "section": 1,
+          "day": "Tue",
+          "start": "10:30",
+          "end": "13:20",
+          "lecturer": "Ertuğrul Süngü",
+          "room": "GLTBUG",
+          "online": false
+        }
+      ]
+    },
+    {
+      "code": "GAD2007",
+      "name": "2D Game Art",
+      "type": "elective",
+      "group": "art",
+      "sections": [
+        {
+          "section": 1,
+          "day": "Mon",
+          "start": "13:30",
+          "end": "17:20",
+          "lecturer": "Kadir Berat Akdemir",
+          "room": "GLTSC03",
+          "online": false
+        }
+      ]
+    },
+    {
+      "code": "GAD2009",
+      "name": "Interface Design",
+      "type": "elective",
+      "group": "art",
+      "sections": [
+        {
+          "section": 1,
+          "day": "Mon",
+          "start": "09:30",
+          "end": "13:20",
+          "lecturer": "Kadir Berat Akdemir",
+          "room": "GLTSC03",
+          "online": false
+        }
+      ]
+    },
+    {
+      "code": "GAD2010",
+      "name": "Contemporary Game Engines",
+      "tag": "Starts ~9:00",
+      "note": "This course is about optimizing art and code in Unreal Engine. It is registered as 08:30, but class actually starts later, around 9:00 or 9:30.",
+      "type": "elective",
+      "group": "dev",
+      "sections": [
+        {
+          "section": 1,
+          "day": "Fri",
+          "start": "08:30",
+          "end": "12:20",
+          "lecturer": "Caner Ataş",
+          "room": "GLTSC02",
+          "online": false
+        }
+      ]
+    },
+    {
+      "code": "GAD3004",
+      "name": "Advanced Game Sound & Music",
+      "type": "elective",
+      "group": "proj",
+      "sections": [
+        {
+          "section": 1,
+          "day": "Tue",
+          "start": "09:30",
+          "end": "13:20",
+          "lecturer": "Başar Ünder",
+          "room": "TANZER-MAC01",
+          "online": false
+        }
+      ]
+    },
+    {
+      "code": "GAD3005",
+      "name": "Game Business",
+      "type": "elective",
+      "group": "biz",
+      "sections": [
+        {
+          "section": 1,
+          "day": "Wed",
+          "start": "10:30",
+          "end": "13:20",
+          "lecturer": "Burak Güven Akmenek",
+          "room": "GLTVR",
+          "online": false
+        }
+      ]
+    },
+    {
+      "code": "GAD3008",
+      "name": "Multiplayer Game Development",
+      "type": "elective",
+      "group": "dev",
+      "sections": [
+        {
+          "section": 1,
+          "day": "Thu",
+          "start": "13:30",
+          "end": "17:20",
+          "lecturer": "Tunga Gökhan Şahinler",
+          "room": "GLTSC03",
+          "online": false
+        }
+      ]
+    },
+    {
+      "code": "GAD3009",
+      "name": "Writing for Games",
+      "type": "elective",
+      "group": "design",
+      "sections": [
+        {
+          "section": 1,
+          "day": "Wed",
+          "start": "10:30",
+          "end": "13:20",
+          "lecturer": "Barbaros Bostan",
+          "room": "GLTBUG",
+          "online": false
+        }
+      ]
+    },
+    {
+      "code": "GAD3010",
+      "name": "Cinematography for Games",
+      "type": "elective",
+      "group": "proj",
+      "sections": [
+        {
+          "section": 1,
+          "day": "Wed",
+          "start": "13:30",
+          "end": "17:20",
+          "lecturer": "Güven Çatak",
+          "room": "TANZER-MAC01",
+          "online": false
+        }
+      ]
+    },
+    {
+      "code": "GAD3012",
+      "name": "Playful Experience Design",
+      "type": "elective",
+      "group": "proj",
+      "sections": [
+        {
+          "section": 1,
+          "day": "Wed",
+          "start": "14:30",
+          "end": "17:20",
+          "lecturer": "Zeynep Burcu Kaya Alpan",
+          "room": "GLTVR",
+          "online": false
+        }
+      ]
+    },
+    {
+      "code": "GAD3014",
+      "name": "New Technologies in Gaming",
+      "type": "elective",
+      "group": "proj",
+      "sections": [
+        {
+          "section": 1,
+          "day": "Thu",
+          "start": "13:30",
+          "end": "16:20",
+          "lecturer": "Çiğdem Düzgüneş Süngü",
+          "room": "GLTVR",
+          "online": false
+        }
+      ]
+    },
+    {
+      "code": "GAD3023",
+      "name": "Character Design",
+      "type": "elective",
+      "group": "art",
+      "sections": [
+        {
+          "section": 1,
+          "day": "Tue",
+          "start": "13:30",
+          "end": "17:20",
+          "lecturer": "Kadir Berat Akdemir",
+          "room": "GLTSC03",
+          "online": false
+        }
+      ]
+    },
+    {
+      "code": "GAD3025",
+      "name": "Advanced Level Design",
+      "type": "elective",
+      "group": "design",
+      "sections": [
+        {
+          "section": 1,
+          "day": "Thu",
+          "start": "13:30",
+          "end": "17:20",
+          "lecturer": "Server Zafer Masalcı",
+          "room": "GLTSC02",
+          "online": false
+        }
+      ]
+    },
+    {
+      "code": "GAD3026",
+      "name": "Tabletop Game Design",
+      "type": "elective",
+      "group": "design",
+      "sections": [
+        {
+          "section": 1,
+          "day": "Mon",
+          "start": "13:30",
+          "end": "17:20",
+          "lecturer": "Ertuğrul Süngü",
+          "room": "GLTBUG",
+          "online": false
+        }
+      ]
+    },
+    {
+      "code": "GAD3028",
+      "name": "Game Journalism",
+      "type": "elective",
+      "group": "cult",
+      "sections": [
+        {
+          "section": 1,
+          "day": "Tue",
+          "start": "14:30",
+          "end": "17:20",
+          "lecturer": "Ertuğrul Süngü",
+          "room": "GLTBUG",
+          "online": false
+        }
+      ]
+    },
+    {
+      "code": "GAD4010",
+      "name": "Pixel Art",
+      "type": "elective",
+      "group": "art",
+      "sections": [
+        {
+          "section": 1,
+          "day": "Fri",
+          "start": "14:30",
+          "end": "18:20",
+          "lecturer": "Emre Gökçe Çimen",
+          "room": "GLTSC03",
+          "online": false
+        }
+      ]
+    }
+  ]
+}
